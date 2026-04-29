@@ -78,14 +78,14 @@ No solo limpié datos, **creé valor**.
 ---
 
 ## 📁 Estructura del Proyecto (Notebooks)
-├── 01_ETL_FeatureEngineering.ipynb # Limpieza avanzada + creación de variables
-├── 02_Cohortes_LTV.ipynb # Matriz de retención, curvas LTV por canal
-├── 03_RFM_Clustering_Abandono.ipynb # K-Means, clusters de riesgo, índice de constancia
-├── 04_Estacionalidad_Inventario.ipynb# Volatilidad, política de stock diferenciada
-├── df_clean.parquet # Dataset final enriquecido
-├── README.md # Este documento
-└── presentacion_ejecutiva.pdf # Diapositivas con gráficos clave
 
+- 01_ETL_FeatureEngineering.ipynb # Limpieza avanzada + creación de variables
+- 02_Cohortes_LTV.ipynb # Matriz de retención, curvas LTV por canal
+- 03_RFM_Clustering_Abandono.ipynb # K-Means, clusters de riesgo, índice de constancia
+- 04_Estacionalidad_Inventario.ipynb# Volatilidad, política de stock diferenciada
+- df_clean.parquet # Dataset final enriquecido
+- README.md # Este documento
+- presentacion_ejecutiva.pdf # Diapositivas con gráficos clave
 
 ---
 
