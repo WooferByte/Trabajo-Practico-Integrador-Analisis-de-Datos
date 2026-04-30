@@ -107,3 +107,5 @@ No solo limpié datos, **creé valor**.
 ---
 
 *Proyecto desarrollado como caso de estudio real para demostrar capacidades de análisis avanzado, storytelling con datos y recomendaciones estratégicas accionables.*
+
+URL del CSV subido a Google Drive: https://docs.google.com/spreadsheets/d/1gY3lvIDrlw3eow5IMgyKvorYZoCpsh7YyDdWChg5_os/edit?usp=sharing
